@@ -1,0 +1,7 @@
+streamlit
+scikit-learn
+pandas
+h2o
+joblib
+pycaret
+scikit-optimize
